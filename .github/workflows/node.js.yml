@@ -2,9 +2,9 @@ name: romeo CI/CD PUSH
 
 on:
   push:
-    branches: [master]
+    branches: [main]
   pull_request:
-    branches: [master]
+    branches: [main]
 
 jobs:
   build:
