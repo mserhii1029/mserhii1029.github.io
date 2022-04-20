@@ -1,0 +1,45 @@
+[
+    {
+        "color":"blue",
+        "detail":"Discord bot youtube music node js and discord js",
+        "name":"discord-youtube-music-bot",
+        "lang":"TypeScript",
+        "link":"https://github.com/kai63001/discord-youtube-music-bot"
+    },
+    {
+        "color":"bluesky",
+        "detail":"king of the mortal game made with flutter ,Memorise the arrows shown each round and move to dodge the explosions",
+        "name":"King-of-the-mortal",
+        "lang":"Dart",
+        "link":"https://github.com/kai63001/King-of-the-mortal"
+    },
+    {
+        "color":"greenlight",
+        "detail":"nuxt js application + sql social or community of meme and generate meme",
+        "name":"meme_jooku ",
+        "lang":"Vue",
+        "link":"https://github.com/kai63001/meme_jooku"
+    },
+    {
+        "color":"bluesky",
+        "detail":"A simple quiz multiplayer game made by Flutter and Socket",
+        "name":"mobile-quiz-multiplayer-game",
+        "lang":"Dart",
+        "link":"https://github.com/kai63001/mobile-quiz-multiplayer-game"
+    },
+    {
+        "color":"bluesky",
+        "detail":"Mini project Flutter + Rest API (typescript OOP) + Mongodb + learn a simple microservice",
+        "name":"lullaby",
+        "lang":"Dart",
+        "link":"https://github.com/kai63001/lullaby"
+    },
+    {
+        "color":"green",
+        "detail":"Wile game is NFT Card Game multiplayer made with unity",
+        "name":"wile-game",
+        "lang":"C#",
+        "link":"https://github.com/kai63001/wile-game"
+    }
+
+]
