@@ -198,7 +198,7 @@ export default function Home() {
           <br />
           <br />
           <div ref={project} id='project'>
-            <h2 className='text-3xl'>Project</h2>
+            <h2 className='text-3xl'>Projects</h2>
 
             {/* <h3 className='text-2xl mt-5 border-b-2 pb-2 border-purple-500 w-14 whitespace-nowrap'>Closed Source</h3> */}
 
