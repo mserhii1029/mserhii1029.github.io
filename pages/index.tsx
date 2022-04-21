@@ -58,7 +58,7 @@ export default function Home() {
             <img alt='👋' draggable='false' src='https://twemoji.maxcdn.com/2/72x72/1f44b.png'></img>
           </span>
         </h1>
-        <div className='mt-5 text-center font-mochiy'>I code and love doing what I can't. and I like what I do.</div>
+        <div className='mt-5 text-center font-mochiy'>I code and I love what I do.</div>
       </div>
       <div className='parallax_layer parallax_layer_3'>
         <img className='img' src='/images/layer4.png' alt='layer4' />
@@ -94,7 +94,7 @@ export default function Home() {
                   className={`hover:bg-purple-800 ${!aboutisVisible && !skillisVisible && projectisVisible && 'bg-purple-800'} rounded-md px-4 py-2`}
                   onClick={projectScroll}
                 >
-                  Project
+                  Projects
                 </button>
               </li>
               <li>
@@ -147,7 +147,7 @@ export default function Home() {
                   className={`hover:bg-purple-800 ${!aboutisVisible && !skillisVisible && projectisVisible && 'bg-purple-800'} rounded-md px-4 py-2 w-full`}
                   onClick={projectScroll}
                 >
-                  Project
+                  Projects
                 </button>
               </li>
               <li>
@@ -179,7 +179,7 @@ export default function Home() {
               <img src='/images/whatido.png' alt='' />
             </div>
             <div className='sm:order-2 col-span-4 order-1'>
-              <h2 className='text-3xl'>What i do</h2>
+              <h2 className='text-3xl'>What I do</h2>
               {showMore ? <LessSkills /> : <MoreSkills />}
               <div className='text-center mt-5'>
                 <button onClick={setShowLessSkill} className='bg-orange-600 px-5 py-2 rounded-lg focus:outline outline-offset-1 outline-orange-900'>
